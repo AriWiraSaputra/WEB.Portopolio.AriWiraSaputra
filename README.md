@@ -13,7 +13,7 @@
 ## [Live Preview](https://ariwirasaputra.github.io/WEB.Portopolio.AriWiraSaputra/)
 
 <h2 align="center">
-  <img src="https://github.com/AriWiraSaputra/WEB.Portopolio.AriWiraSaputra/tree/main/img/Pt1.gif" alt="Simplefolio" width="600px" />
+  <img src="https://github.com/AriWiraSaputra/WEB.Portopolio.AriWiraSaputra/img/Pt1.gif" alt="Simplefolio" width="600px" />
   <br>
 </h2>
 
