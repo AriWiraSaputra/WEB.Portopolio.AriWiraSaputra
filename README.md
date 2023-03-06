@@ -10,7 +10,7 @@
   <a href="https://github.com/alsiam/alfolio/archive/refs/heads/main.zip" target="_blank"><img src="https://img.shields.io/badge/Download-DC143C?style=for-the-badge&logo=website&logoColor=white" alt="alsiam" /></a> 
 </p>
 
-## [Live Preview](https://alfolio.netlify.app)
+## [Live Preview](https://ariwirasaputra.github.io/WEB.Portopolio.AriWiraSaputra/)
 
 <h2 align="center">
   <img src="https://github.com/AriWiraSaputra/WEB.Portopolio.AriWiraSaputra/tree/main/img/Pt1.gif" alt="Simplefolio" width="600px" />
