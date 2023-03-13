@@ -27,50 +27,11 @@
 ⚡️ Well organized documentation
 
 <br/>
-
-## Why do you need a portfolio? ☝️
-
-- Professional way to showcase your work
-- Increases your visibility and online presence
-- Shows you’re more than just a resume
-
-<br/>
-
-```bash
-# Clone the repository
-$ git clone https://github.com/alsiam/alfolio.git
-# Move into the repository
-$ cd alfolio
-# Remove the current origin repository
-$ git remote remove origin
 ```
-
 <br/>
-
 ## Release History
 
 - 0.1.0
   - The first proper release
 - 0.0.1
-
   - Work in progress
-
-  <br/>
-
-## Author Details
-
-Al Siam – [twitter](https://twitter.com/alsiam) – saif@alsiam.com
-
-Distributed under the XYZ license. See `LICENSE` for more information.
-
-[https://github.com/alsiam/alfolio](https://github.com/dbader/)
-
-<br/>
-
-## Contributing
-
-1. Fork it (<https://github.com/alsiam/alfolio/fork>)
-2. Create your feature branch (`git checkout -b feature/featureName`)
-3. Commit your changes (`git commit -m 'Add some featureName'`)
-4. Push to the branch (`git push origin feature/featureName`)
-5. Create a new Pull Request
