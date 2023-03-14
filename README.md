@@ -6,8 +6,6 @@
 
 <p align="center">
   <a href="https://ariwirasaputra.github.io/WEB.Portopolio.AriWiraSaputra/" target="_blank"><img src="https://img.shields.io/badge/Live Preview-0077B5?style=for-the-badge&logo=vercel&logoColor=white" alt="alsiam" /></a> 
-  <a href="https://github.com/alsiam/alfolio/fork" target="_blank"><img src="https://img.shields.io/badge/Fork the Repository-088B5?style=for-the-badge&logo=website&logoColor=blue" alt="alsiam" /></a> 
-  <a href="https://github.com/alsiam/alfolio/archive/refs/heads/main.zip" target="_blank"><img src="https://img.shields.io/badge/Download-DC143C?style=for-the-badge&logo=website&logoColor=white" alt="alsiam" /></a> 
 </p>
 
 ## [Live Preview](https://ariwirasaputra.github.io/WEB.Portopolio.AriWiraSaputra/)
